@@ -92,9 +92,9 @@ This project is currently created using the following libraries.
 | selenium |  |
 
 ### Members - _TEAM 4_
-- 2020355 Jo Byeong Wook
-- 2020355 Han sunggoo
-- 2020355 kim yeeun
+- 202035513 Kim Jiwoo
+- 202035525 Seo JeongDeok
+- 202035528 Shin Sooin
 - 202035535 Lee jiyun
 
 
