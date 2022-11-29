@@ -2,7 +2,7 @@
 ### _TEAM 4_
 ---
 ###### **CAUTION**
-`"ml_team4_v2(allVersion)"` has a very large source code capacity. So We updated it like `"ml_team4"` with a smaller capacity.</br>
+`"ml_team4_v2(allVersion)"` has a very large source code capacity. So We updated it with "ml_team4" which has a smaller capacity.</br>
 
 `"ml_team4_v2(allVersion)"` is a better source code. (perfect)
 
