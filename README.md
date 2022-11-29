@@ -6,11 +6,9 @@
 
 `"ml_team4_v2(allVersion).ipynb"` is a better source code. (perfect)
 
-+ If you can't open `"ml_team4_v2(allVersion).ipynb"`, `"ml_team4.ipynb"`, **Try opening `"ml_team4(Basic).ipynb"`.** It will open.
+\+ If you can't open `"ml_team4_v2(allVersion).ipynb"`, `"ml_team4.ipynb"`, **Try opening `"ml_team4(Basic).ipynb"`.** It will open.
 However, `"ml_team4(Basic).ipynb"` does not have a result window output screen.
 
-
-CAUTION
 
 # Goals
 - Recommend animation to users
