@@ -2,9 +2,9 @@
 ### _TEAM 4_
 ---
 ###### **CAUTION**
-`"ml_team4_v2(allVersion)"` has a very large source code capacity. So We updated it with "ml_team4" which has a smaller capacity.</br>
+`"ml_team4_v2(allVersion).ipynb"` has a very large source code capacity. So We updated it with `"ml_team4.ipynb"` which has a smaller capacity.</br>
 
-`"ml_team4_v2(allVersion)"` is a better source code. (perfect)
+`"ml_team4_v2(allVersion).ipynb"` is a better source code. (perfect)
 
 # Goals
 - Recommend animation to users
