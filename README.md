@@ -42,9 +42,6 @@ item_based_CF(user_id, n)
 - Detail
 `get_cos_sim_table`, `recommend_item_based_CF`, `get_recommend_titles`
 
-### Output
-<img width="757" alt="image" src="https://user-images.githubusercontent.com/65584699/204481963-2b168fd6-4cd6-438a-b95e-3890a3120781.png">
-
 # User-based filtering
 ````python
 User_based(user_id, n)
@@ -58,9 +55,6 @@ svd_recommend_system(user_id, n)
 - Detail
 `calculate_SVD`, `get_anime_recommended`, `get_top_recommend_list`
 
-### Output
-<img width="735" alt="image" src="https://user-images.githubusercontent.com/65584699/204481210-e5a8eb7c-ab1a-4400-a0fb-933697450746.png">
-
 
 # Content-based filtering
 ````python
@@ -68,10 +62,6 @@ content_based_filtering(user_id, n)
 ````
 - Detail
 `calculate_scores`, `watched_anime`
-
-### Output
-
-![image](https://user-images.githubusercontent.com/65584699/204472016-7795b4fe-6151-499f-a6c1-e614f2538e22.png)
 
 # Main 
 ````python
