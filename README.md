@@ -7,6 +7,17 @@
 # Structure & Flow
 <img width="460" alt="image" src="https://user-images.githubusercontent.com/65584699/204468203-706ac91b-23bc-4e4f-83d3-8a79cd5c8653.png">
 
+# Output
+- Item-based filtering
+<img width="758" alt="image" src="https://user-images.githubusercontent.com/65584699/204482949-ff4d887f-8365-4d42-8dfb-243b5a3f7877.png">
+
+- SVD
+<img width="747" alt="image" src="https://user-images.githubusercontent.com/65584699/204482996-36e367b1-4ff1-4283-b85b-7a676291fb1e.png">
+
+- Content based
+<img width="823" alt="image" src="https://user-images.githubusercontent.com/65584699/204483130-c83acfc9-489d-4c11-8af5-565f89ed2bf7.png">
+
+
 # Dataset
 Anime Dataset
 * link : <https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database/>
@@ -30,6 +41,9 @@ item_based_CF(user_id, n)
 ````
 - Detail
 `get_cos_sim_table`, `recommend_item_based_CF`, `get_recommend_titles`
+
+### Output
+<img width="757" alt="image" src="https://user-images.githubusercontent.com/65584699/204481963-2b168fd6-4cd6-438a-b95e-3890a3120781.png">
 
 # User-based filtering
 ````python
@@ -64,9 +78,6 @@ content_based_filtering(user_id, n)
 recommend_system(USER_ID, MODE, NUMBER)
 ````
 
-<img wi
-
-
 
 ## Requirements
 
@@ -81,10 +92,10 @@ This project is currently created using the following libraries.
 | selenium |  |
 
 ### Members - _TEAM 4_
-- 202035513 Kim Jiwoo
-- 202035525 Seo JeongDeok
-- 202035528 Shin Sooin
-- 202035535 Lee Jiyun
+- 2020355 Jo Byeong Wook
+- 2020355 Han sunggoo
+- 2020355 kim yeeun
+- 202035535 Lee jiyun
 
 
 
