@@ -5,21 +5,27 @@
 - Recommend animation to users
 
 # Structure & Flow
-<img width="460" alt="image" src="https://user-images.githubusercontent.com/65584699/204468203-706ac91b-23bc-4e4f-83d3-8a79cd5c8653.png">
+<img width="823" alt="image" src="https://user-images.githubusercontent.com/65584699/204468203-706ac91b-23bc-4e4f-83d3-8a79cd5c8653.png">
 
 # Output
 - Item-based filtering
-<img width="758" alt="image" src="https://user-images.githubusercontent.com/65584699/204482949-ff4d887f-8365-4d42-8dfb-243b5a3f7877.png">
+<img width="823" alt="image" src="https://user-images.githubusercontent.com/65584699/204482949-ff4d887f-8365-4d42-8dfb-243b5a3f7877.png">
+
+- User-based filtering
+<img width="823" alt="image" src="https://user-images.githubusercontent.com/65584699/204532679-2debc46c-58c8-4363-94c5-e72ad70e4fe9.png">
 
 - SVD
-<img width="747" alt="image" src="https://user-images.githubusercontent.com/65584699/204482996-36e367b1-4ff1-4283-b85b-7a676291fb1e.png">
+<img width="823" alt="image" src="https://user-images.githubusercontent.com/65584699/204482996-36e367b1-4ff1-4283-b85b-7a676291fb1e.png">
 
 - Content based
 <img width="823" alt="image" src="https://user-images.githubusercontent.com/65584699/204483130-c83acfc9-489d-4c11-8af5-565f89ed2bf7.png">
 
 
 # Dataset
-Anime Dataset
+#### **_Anime Dataset_** </br>
+The source code and dataset are located in the "anime_recommend" directory.</br>
+However, "rating.csv" was not updated due to its large capacity. </br>
+Download the dataset and related information are at the link below. </br>
 * link : <https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database/>
 
 # Data Preprocessing
@@ -44,7 +50,7 @@ item_based_CF(user_id, n)
 
 # User-based filtering
 ````python
-User_based(user_id, n)
+user_based(user_id, n)
 ````
 
 # SVD
@@ -63,11 +69,17 @@ content_based_filtering(user_id, n)
 - In detail : 
 `calculate_scores`, `watched_anime`
 
-# Main 
+# Total Function 
 ````python
 recommend_system(USER_ID, MODE, NUMBER)
 ````
 
+### Results Output Related Functions
+`get_anime_info`, `print_anime_name` </br></br>
+
+`setting`: Selenium web driver setting </br></br>
+
+`search_img`, `get_img`, `floating_img` </br></br>
 
 ## Requirements
 
