@@ -39,7 +39,7 @@ search_anime_index(recommend_list)
 ````python
 item_based_CF(user_id, n)
 ````
-- Detail
+- In detail : 
 `get_cos_sim_table`, `recommend_item_based_CF`, `get_recommend_titles`
 
 # User-based filtering
@@ -52,7 +52,7 @@ User_based(user_id, n)
 svd_recommend_system(user_id, n)
 ````
 
-- Detail
+- In detail : 
 `calculate_SVD`, `get_anime_recommended`, `get_top_recommend_list`
 
 
@@ -60,7 +60,7 @@ svd_recommend_system(user_id, n)
 ````python
 content_based_filtering(user_id, n)
 ````
-- Detail
+- In detail : 
 `calculate_scores`, `watched_anime`
 
 # Main 
