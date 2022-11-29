@@ -50,7 +50,7 @@ item_based_CF(user_id, n)
 
 # User-based filtering
 ````python
-User_based(user_id, n)
+user_based(user_id, n)
 ````
 
 # SVD
